@@ -21,6 +21,8 @@
         "bedrooms": 2,
         "toilets": 2,
         "garage": "Si",
+        "squareMeters": 60,
+        "squareMetersBuilt": 60,
         "images": [
             "img/Inmueble_1/271929031_670086894428749_8459326828858508430_n.jpg",
             "img/Inmueble_1/271994974_670086731095432_4105695952898295260_n.jpg",
@@ -38,6 +40,7 @@
             "img/Inmueble_1/272899283_670086747762097_722890644002558083_n.jpg",
             "img/Inmueble_1/272930023_670086694428769_4107643510059378038_n.jpg"
         ],
+        "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3272.199566980126!2d-56.171089!3d-34.901441!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x959f81b28ebfed79%3A0xdd424a3b7adee5b6!2sC.%20Ana%20Monterroso%20de%20Lavalleja%202026%2C%2011200%20Montevideo%2C%20Departamento%20de%20Montevideo!5e0!3m2!1ses!2suy!4v1661746018863!5m2!1ses!2suy",
         "relatedProducts": [
             2,
             4
@@ -64,6 +67,8 @@
         "bedrooms": 1,
         "toilets": 1,
         "garage": "Si",
+        "squareMeters": 300,
+        "squareMetersBuilt": 55,
         "images": [
             "img/Inmueble_2/272800962_674388400665265_1797480957318024025_n.jpg",
             "img/Inmueble_2/273033525_674388643998574_6613103532108519260_n.jpg",
@@ -75,6 +80,7 @@
             "img/Inmueble_2/273205815_674388940665211_6747882710319876987_n.jpg",
             "img/Inmueble_2/273382180_674388880665217_4813541998297484341_n.jpg"
         ],
+        "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3272.199566980126!2d-56.171089!3d-34.901441!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x959f81b28ebfed79%3A0xdd424a3b7adee5b6!2sC.%20Ana%20Monterroso%20de%20Lavalleja%202026%2C%2011200%20Montevideo%2C%20Departamento%20de%20Montevideo!5e0!3m2!1ses!2suy!4v1661746018863!5m2!1ses!2suy",
         "relatedProducts": [
             1,
             4
@@ -95,11 +101,13 @@
                                   "Buen ambiente, muy tranquilo y seguro."],
         "guarantee": "Porto Seguro, Garantia BHU, Sura.",
         "cost": 165000,
-        "currency": "US$",
+        "currency": "U$S",
         "expenses": 1600,
         "bedrooms": 4,
         "toilets": 2,
         "garage": "NO",
+        "squareMeters": 85,
+        "squareMetersBuilt": 85,
         "images": [
             "img/Inmueble_3/273549360_677042947066477_7771753066111312701_n.jpg",
             "img/Inmueble_3/273565730_677043067066465_4164931834127019876_n.jpg",
@@ -111,6 +119,7 @@
             "img/Inmueble_3/272896222_677043113733127_4500527690080923149_n.jpg",
             "img/Inmueble_3/273573296_677043090399796_5395616296891492159_n.jpg"
         ],
+        "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3272.199566980126!2d-56.171089!3d-34.901441!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x959f81b28ebfed79%3A0xdd424a3b7adee5b6!2sC.%20Ana%20Monterroso%20de%20Lavalleja%202026%2C%2011200%20Montevideo%2C%20Departamento%20de%20Montevideo!5e0!3m2!1ses!2suy!4v1661746018863!5m2!1ses!2suy",
         "relatedProducts": [
             1,
             2
@@ -133,11 +142,13 @@
                                   "Buena presión de agua."],
         "guarantee": "Anda, Contaduria.",
         "cost": 180000,
-        "currency": "US$",
+        "currency": "U$S",
         "expenses": "No tiene gastos comunes",
         "bedrooms": 3,
         "toilets": 1,
         "garage": "No",
+        "squareMeters": 500,
+        "squareMetersBuilt": 75,
         "images": [
             "img/Inmueble_4/272833143_668736651230440_7069936522698626608_n.jpg",
             "img/Inmueble_4/272254812_668736891230416_7491773977142545550_n.jpg",
@@ -151,6 +162,7 @@
             "img/Inmueble_1/272260681_668737067897065_6234908865328967127_n.jpg",
             "img/Inmueble_1/272195223_668737114563727_4123752464208691936_n.jpg"
         ],
+        "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3272.199566980126!2d-56.171089!3d-34.901441!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x959f81b28ebfed79%3A0xdd424a3b7adee5b6!2sC.%20Ana%20Monterroso%20de%20Lavalleja%202026%2C%2011200%20Montevideo%2C%20Departamento%20de%20Montevideo!5e0!3m2!1ses!2suy!4v1661746018863!5m2!1ses!2suy",
         "relatedProducts": [
             2,
             3

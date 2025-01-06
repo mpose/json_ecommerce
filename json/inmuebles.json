@@ -121,7 +121,7 @@
         "guarantee": "Anda, Contaduria.",
         "cost": 180000,
         "currency": "U$S",
-        "expenses": "No tiene gastos comunes",
+        "expenses": 0,
         "bedrooms": 3,
         "toilets": 1,
         "garage": "No",
